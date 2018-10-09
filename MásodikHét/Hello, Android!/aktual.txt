@@ -1,2 +1,3 @@
 A fejlesztői környezetet előkészitettem, a mobil eszközöm szinkronalizásánál elakadtam. Vissza fogok térni rá.
 UPDATE: Sikerült a telefonom szinronizálni a fejlesztői környezettel.
+UPDATE2: Sikerült feltenni a Samu programokat a telefonomra.
