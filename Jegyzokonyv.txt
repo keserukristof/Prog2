@@ -29,5 +29,10 @@ Harmadik hét:
 
 Negyedik hét:
 	l334d1c4:A l334d1c4 programot egy Szegeden tanuló barátommal közösen készitettem el.
+	
+	Encoding: Egyenlőre nem találtam még meg a MandelbrotHalmazNagyító.java forráskódját.
+	
+	Perceptron: Egyenlőre nem sikerült egy olyan projectet találnom amibe érdemes lenne beletenni a perceptron osztályt.
+	
 
 
