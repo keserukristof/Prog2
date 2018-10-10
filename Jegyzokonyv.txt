@@ -3,25 +3,25 @@ Keserű Kristóf (OO8RQV) jegyzőkönyve Monori Fanny szerda 12órás Prog2 csop
 
 
 Első hét:
-	„Gagyi”:A Gagyi feladat megoldásánál rámutattoa a külömbségre hogy a program hogy reagál arra 			ha -128nál kisebb számot adunk meg és a while ciklus végtelen lesz.
+	„Gagyi”:A Gagyi feladat megoldásánál rámutattoa a külömbségre hogy a program hogy reagál arra ha 128nál kisebb számot 		adunk meg és a while ciklus végtelen lesz.
 	
-	Yoda:A Yoda feladatnál egy saját kódot irtam amin belül alkalmazom a yoda conditiont és a 			másik részében nem alkalmazom. Sikeresen fordult és futott. Remélem jól szemlélteti a 			feladat lényegét.
+	Yoda:A Yoda feladatnál egy saját kódot irtam amin belül alkalmazom a yoda conditiont és a másik részében nem alkalmazom.    		 Sikeresen fordult és futott. Remélem jól szemlélteti a feladat lényegét.
 		
-	OO szemlélet:A polargen feladatra nem sikerült saját forráskódot irni ezért Bátfai Norbet 			     tanárúr által megadott kódot értelmeztem majd forditottam és futtattam.
-		     A polargen feladat c++ verziójának értelmezését elkezdtem. A forditáskor hibát 			     ir ki ezért még idő szügséges ahhoz, hogy a program megfelelően működjön.
+	OO szemlélet:A polargen feladatra nem sikerült saját forráskódot irni ezért Bátfai Norbet 			     			     tanárúr által megadott kódot értelmeztem majd forditottam és futtattam.
+		     A polargen feladat c++ verziójának értelmezését elkezdtem. A forditáskor hibát ir ki ezért még idő szügséges 		       ahhoz, hogy a program megfelelően működjön.
 		     UPDATE: A polargenteszt.cpp sikeresen fordult és futott.
 
 Második hét:
-	Hello Android:A fejlesztői környezetet előkészitettem, a mobil eszközöm szinkronalizásánál 			      elakadtam. Vissza fogok térni rá.
+	Hello Android:A fejlesztői környezetet előkészitettem, a mobil eszközöm szinkronalizásánál elakadtam. Vissza fogok térni 		       rá.
 		      UPDATE: Sikerült a telefonom szinronizálni a fejlesztői környezettel.
 		      UPDATE2: Sikerült feltenni a Samu programokat a telefonomra.
 
-	Szülő-gyerek:A feladat java verziójával sikerült megoldani a feladatot viszont a c++ verziót 			     még nem sikerült elkészitenem. Dolgozok rajta.
+	Szülő-gyerek:A feladat java verziójával sikerült megoldani a feladatot viszont a c++ verziót még nem sikerült  				     elkészitenem. Dolgozok rajta.
 
-	Liskov helyettesítés sértése:A feladat értelmezése és a c++ verzió irása, forditása és 					     futtatása sikeresen megtörtént. A java verzióján még dolgozok.
+	Liskov helyettesítés sértése:A feladat értelmezése és a c++ verzió irása, forditása és futtatása sikeresen megtörtént. A 				      java verzióján még dolgozok.
 
 Harmadik hét:
-	BPMN:A feladatot a bpmn.io oldalon hajtottam végre ahol egy pizzéria működéséről készitettem 		     diagrammot.
+	BPMN:A feladatot a bpmn.io oldalon hajtottam végre ahol egy pizzéria működéséről készitettem diagrammot.
 
 	Reverse engineering UML osztálydiagram:Az eclipse IDEbe feltelepitettem az ObjectAid plugint 						       amivel legeneráltam a feladat által kért diagrammot.
 
