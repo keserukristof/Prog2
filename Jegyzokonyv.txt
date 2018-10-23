@@ -52,7 +52,11 @@ Negyedik hét:
 Hatodik hét:
 	Alternativ tabella: A forráskód leforditása elsőre nem sikerült mivel a tömbből hiányoztak elemek. A tömböt miután
 			    feltöltöttem annyi elemmel ahány focicsapat szerepel a feladatban a program sikeresen fordult és 				    futott.
+	
 	Costum alloc: Bátfai Norbert tanárúr forráskódját sikeresen forditottam, futtattam majd értelemztem.
+	
+	Esszé: Az esszé feladatot az alternativ tabella feladatból fogom irni viszont nem sikerült még kellően átlátnom és 
+	       értelmeznem a forráskódot ahoz hogy elkészitsem az esszét. Minél hamarabb igyekszek teljesiteni a feladatot.
 	
 	
 	
