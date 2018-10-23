@@ -35,7 +35,26 @@ Negyedik hét:
 	
 	Perceptron: Egyenlőre nem sikerült egy olyan projectet találnom amibe érdemes lenne beletenni a perceptron osztályt.
 	
-	Full Screen:Egy nagyon egyszerű programsor van erre a feladatra. A kijelző full screen szürkére vált a program 			     	    elinditásával. Remélem ez eleget tesz a feladatnak	
+	Full Screen:Egy nagyon egyszerű programsor van erre a feladatra. A kijelző full screen szürkére vált a program 			     	    elinditásával. Remélem ez eleget tesz a feladatnak.
+	
+Ötödik hét:
+	Mozgató-Másoló: Létrehoztam egy Alma classt. Az alma classnak van egy körte pointere. Az A2re meghivtam a copy 
+	constructort és cout-oltam egy stringet.
+	Ezután az a-ra meghivtam a move constructort.
+	A move átrakja a pointert és nem átmásolja és az áthelyezés után a a-nak nem lesz semmilyen adata.
+	A másoló konstruktor lefoglalja az objektum működéséhez szügséges 
+	majd az objektumunknak egy másolatát hozza létre.
+	
+	JDK: A jegyzőkönyvet nem éreztem szügségesnek mivel az esszé teljesen kifejti a feladat megoldását.
+	
+	Esszé: Készen van.
+	
+Hatodik hét:
+	Alternativ tabella: A forráskód leforditása elsőre nem sikerült mivel a tömbből hiányoztak elemek. A tömböt miután
+			    feltöltöttem annyi elemmel ahány focicsapat szerepel a feladatban a program sikeresen fordult és 				    futott.
+	Costum alloc: Bátfai Norbert tanárúr forráskódját sikeresen forditottam, futtattam majd értelemztem.
+	
+	
 	
 
 
