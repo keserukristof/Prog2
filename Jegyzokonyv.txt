@@ -51,7 +51,7 @@ Negyedik hét:
 	
 Hatodik hét:
 	Alternativ tabella: A forráskód leforditása elsőre nem sikerült mivel a tömbből hiányoztak elemek. A tömböt miután
-			    feltöltöttem annyi elemmel ahány focicsapat szerepel a feladatban a program sikeresen fordult és 				    futott.
+			    feltöltöttem annyi elemmel ahány focicsapat szerepel a feladatban a program sikeresen fordult és 				    futott. A java.lang Interface Comparable<T> szerepét az esszében fogom részletesen kifejteni.
 	
 	Costum alloc: Bátfai Norbert tanárúr forráskódját sikeresen forditottam, futtattam majd értelemztem.
 	
