@@ -55,8 +55,7 @@ Hatodik hét:
 	
 	Costum alloc: Bátfai Norbert tanárúr forráskódját sikeresen forditottam, futtattam majd értelemztem.
 	
-	Esszé: Az esszé feladatot az alternativ tabella feladatból fogom irni viszont nem sikerült még kellően átlátnom és 
-	       értelmeznem a forráskódot ahoz hogy elkészitsem az esszét. Minél hamarabb igyekszek teljesiteni a feladatot.
+	STL: A rendezendő mapet egy párokat tartalmazó üres vektorba másoljuk,a vektort a párok második értékei alapján 		     rendezzük, utána pedig kiíratjuk a rendezett vektort. A feladat megoldásához tutor segitségét vettem igénybe.
 	
 	
 	
