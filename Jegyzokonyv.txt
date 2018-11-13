@@ -57,7 +57,21 @@ Hatodik hét:
 	
 	STL: A rendezendő mapet egy párokat tartalmazó üres vektorba másoljuk,a vektort a párok második értékei alapján 		     rendezzük, utána pedig kiíratjuk a rendezett vektort. A feladat megoldásához tutor segitségét vettem igénybe.
 	
+Hetedik hét:
+	BRAINB:A program forditásához és futtatásához szügséges dolgokat feltelepitettem majd a forditás és a futtatás sikeres
+	       volt.
+	       A qt slot-signal mechanizmusról: A signals and slots mechanizmus teljes egészében Qt-specifikus.A Qt-ban 		       azobjektumok képesek magukból signal-okat kiadni, „kisugározni”, szakzsargonban emittálni.A Qt-ban azobjektumoknak 		 lehetnek slot-jaik is, azaz olyan speciális tagfüggvényeik, melyek képesek hallgatózni: figyelni arra, ha egy 		       másik objektum signalt bocsájt ki.
 	
+	SamuCam: A samucam programban amikor a qmaket ráküldöm teljesen jól readgál a program, viszont mikor a maket küldöm rá 			 fatal errort ad vissza az opencv miatt pedig fel van telepitve.
+		 a webcam kezeléséről: videoCapture.open ( videoStream ); résszel elinditja a felvételt. videoCapture.set 			 (CV_CAP_PROP_FRAME_WIDTH, width );
+  		 videoCapture.set ( CV_CAP_PROP_FRAME_HEIGHT, height );
+  		 videoCapture.set ( CV_CAP_PROP_FPS, 10 ); résszel pedig beállitja a méretet és az fps-t.
+		 void SamuCam::run() résznél kéri be az XML-t és futtatja a  felvételt.
+	
+	FUTURE tevékenység editor: A java FX telepitése megtörtént majd a forditás és futtatás sikeres volt. Egyenlőre nem 					   találtam olyan részt a programban amin érdemben tudnék javitani, hamarosan befejezem a 					   feladatot.
+	
+
+Nyolcadik hét:
 	
 
 
