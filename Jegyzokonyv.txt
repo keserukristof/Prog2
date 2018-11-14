@@ -3,80 +3,68 @@ Keserű Kristóf (OO8RQV) jegyzőkönyve Monori Fanny szerda 12órás Prog2 csop
 
 
 Első hét:
-	„Gagyi”:A Gagyi feladat megoldásánál rámutattoa a külömbségre hogy a program hogy reagál arra ha 128nál kisebb számot 		adunk meg és a while ciklus végtelen lesz.
+„Gagyi”:A Gagyi feladat megoldásánál rámutattoa a külömbségre hogy a program hogy reagál arra ha 128nál kisebb számot adunk meg és a while ciklus végtelen lesz.
 	
-	Yoda:A Yoda feladatnál egy saját kódot irtam amin belül alkalmazom a yoda conditiont és a másik részében nem alkalmazom.    		 Sikeresen fordult és futott. Remélem jól szemlélteti a feladat lényegét.
+Yoda:A Yoda feladatnál egy saját kódot irtam amin belül alkalmazom a yoda conditiont és a másik részében nem alkalmazom.    	 Sikeresen fordult és futott. Remélem jól szemlélteti a feladat lényegét.
 		
-	OO szemlélet:A polargen feladatra nem sikerült saját forráskódot irni ezért Bátfai Norbet 			     			     tanárúr által megadott kódot értelmeztem majd forditottam és futtattam.
-		     A polargen feladat c++ verziójának értelmezését elkezdtem. A forditáskor hibát ir ki ezért még idő szügséges 		       ahhoz, hogy a program megfelelően működjön.
-		     UPDATE: A polargenteszt.cpp sikeresen fordult és futott.
+OO szemlélet:A polargen feladatra nem sikerült saját forráskódot irni ezért Bátfai Nert tanárúr által megadott kódot értelmeztem majd forditottam és futtattam.A polargen feladat c++ verziójának értelmezését elkezdtem. A forditáskor hibát ir ki ezért még idő szügséges ahhoz, hogy a program megfelelően működjön. UPDATE: A polargenteszt.cpp sikeresen fordult és futott.
 
 Második hét:
-	Hello Android:A fejlesztői környezetet előkészitettem, a mobil eszközöm szinkronalizásánál elakadtam. Vissza fogok térni 		       rá.
-		      UPDATE: Sikerült a telefonom szinronizálni a fejlesztői környezettel.
-		      UPDATE2: Sikerült feltenni a Samu programokat a telefonomra.
+Hello Android:A fejlesztői környezetet előkészitettem, a mobil eszközöm szinkronalizásánál elakadtam. Vissza fogok térni rá.
+UPDATE: Sikerült a telefonom szinronizálni a fejlesztői környezettel.
+UPDATE2: Sikerült feltenni a Samu programokat a telefonomra.
 
-	Szülő-gyerek:A feladat java verziójával sikerült megoldani a feladatot viszont a c++ verziót még nem sikerült  				     elkészitenem. Dolgozok rajta.
+Szülő-gyerek:A feladat java verziójával sikerült megoldani a feladatot viszont a c++ verziót még nem sikerültelkészitenem. Dolgozok rajta.
 
-	Liskov helyettesítés sértése:A feladat értelmezése és a c++ verzió irása, forditása és futtatása sikeresen megtörtént. A 				      java verzióján még dolgozok.
+Liskov helyettesítés sértése:A feladat értelmezése és a c++ verzió irása, forditása és futtatása sikeresen megtörtént. A java verzióján még dolgozok.
 
 Harmadik hét:
-	BPMN:A feladatot a bpmn.io oldalon hajtottam végre ahol egy pizzéria működéséről készitettem diagrammot.
+BPMN:A feladatot a bpmn.io oldalon hajtottam végre ahol egy pizzéria működéséről készitettem diagrammot.
 
-	Reverse engineering UML osztálydiagram:Az eclipse IDEbe feltelepitettem az ObjectAid plugint 						       amivel legeneráltam a feladat által kért diagrammot.
+Reverse engineering UML osztálydiagram:Az eclipse IDEbe feltelepitettem az ObjectAid plugint amivel legeneráltam a feladat által kért diagrammot.
 
-	Egy esettan: HIÁNYZIK
+Egy esettan: HIÁNYZIK
 
 Negyedik hét:
-	l334d1c4:A l334d1c4 programot egy Szegeden tanuló barátommal közösen készitettem el.
+l334d1c4:A l334d1c4 programot egy Szegeden tanuló barátommal közösen készitettem el.
 	
-	Encoding:Egyenlőre nem találtam még meg a MandelbrotHalmazNagyító.java forráskódját.
-		 UPDATE: Az ékezetek ellenére lefordult és fut a program.
+Encoding:Egyenlőre nem találtam még meg a MandelbrotHalmazNagyító.java forráskódját. UPDATE: Az ékezetek ellenére lefordult és fut a program.
 	
-	Perceptron: Egyenlőre nem sikerült egy olyan projectet találnom amibe érdemes lenne beletenni a perceptron osztályt.
+Perceptron: Egyenlőre nem sikerült egy olyan projectet találnom amibe érdems lenne beletenni a perceptron osztályt.
 	
-	Full Screen:Egy nagyon egyszerű programsor van erre a feladatra. A kijelző full screen szürkére vált a program 			     	    elinditásával. Remélem ez eleget tesz a feladatnak.
+Full Screen:Egy nagyon egyszerű programsor van erre a feladatra. A kijelző full screen szürkére vált a program elinditásával. Remélem ez eleget tesz a feladatnak.
 	
 Ötödik hét:
-	Mozgató-Másoló: Létrehoztam egy Alma classt. Az alma classnak van egy körte pointere. Az A2re meghivtam a copy 
-	constructort és cout-oltam egy stringet.
-	Ezután az a-ra meghivtam a move constructort.
-	A move átrakja a pointert és nem átmásolja és az áthelyezés után a a-nak nem lesz semmilyen adata.
-	A másoló konstruktor lefoglalja az objektum működéséhez szügséges 
-	majd az objektumunknak egy másolatát hozza létre.
+Mozgató-Másoló: Létrehoztam egy Alma classt. Az alma classnak van egy körte pointere. Az A2re meghivtam a copy constructort és cout-oltam egy stringet.Ezután az a-ra meghivtam a move constructort.A move átrakja a pointert és nem átmásolja és az áthelyezés után a a-nak nem lesz semmilyen adata.A másoló konstruktor lefoglalja az objektum működéséhez szügséges majd az objektumunknak egy másolatát hozza létre.
 	
-	JDK: A jegyzőkönyvet nem éreztem szügségesnek mivel az esszé teljesen kifejti a feladat megoldását.
+JDK: A jegyzőkönyvet nem éreztem szügségesnek mivel az esszé teljesen kifejti a feladat megoldását.
 	
-	Esszé: Készen van.
+Esszé: Készen van.
 	
 Hatodik hét:
-	Alternativ tabella: A forráskód leforditása elsőre nem sikerült mivel a tömbből hiányoztak elemek. A tömböt miután
-			    feltöltöttem annyi elemmel ahány focicsapat szerepel a feladatban a program sikeresen fordult és 				    futott. A java.lang Interface Comparable<T> szerepét az esszében fogom részletesen kifejteni.
+Alternativ tabella: A forráskód leforditása elsőre nem sikerült mivel a tömbből hiányoztak elemek. A tömböt miután feltöltöttem annyi elemmel ahány focicsapat szerepel a feladatban a program sikeresen fordult és futott. A java.lang Interface Comparable<T> szerepét az esszében fogom részletesen kifejteni.
 	
-	Costum alloc: Bátfai Norbert tanárúr forráskódját sikeresen forditottam, futtattam majd értelemztem.
+Costum alloc: Bátfai Norbert tanárúr forráskódját sikeresen forditottam, futtattam majd értelemztem.
 	
-	STL: A rendezendő mapet egy párokat tartalmazó üres vektorba másoljuk,a vektort a párok második értékei alapján 		     rendezzük, utána pedig kiíratjuk a rendezett vektort. A feladat megoldásához tutor segitségét vettem igénybe.
+STL: A rendezendő mapet egy párokat tartalmazó üres vektorba másoljuk,a vektort a párok második értékei alapján rendezzük, utána pedig kiíratjuk a rendezett vektort. A feladat megoldásához tutor segitségét vettem igénybe.
 	
 Hetedik hét:
-	BRAINB:A program forditásához és futtatásához szügséges dolgokat feltelepitettem majd a forditás és a futtatás sikeres
-	       volt.
-	       A qt slot-signal mechanizmusról: A signals and slots mechanizmus teljes egészében Qt-specifikus.A Qt-ban 		       azobjektumok képesek magukból signal-okat kiadni, „kisugározni”, szakzsargonban emittálni.A Qt-ban azobjektumoknak 		 lehetnek slot-jaik is, azaz olyan speciális tagfüggvényeik, melyek képesek hallgatózni: figyelni arra, ha egy 		       másik objektum signalt bocsájt ki.
+BRAINB:A program forditásához és futtatásához szügséges dolgokat feltelepitettem majd a forditás és a futtatás sikeres volt. A qt slot-signal mechanizmusról: A signals and slots mechanizmus teljes egészében Qt-specifikus.A Qt-ban azobjektumok képesek magukból signal-okat kiadni, „kisugározni”, szakzsargonban emittálni.A Qt-ban azobjektumoknak lehetnek slot-jaik is, azaz olyan speciális tagfüggvényeik, melyek képesek hallgatózni: figyelni arra, ha egy másik objektum signalt bocsájt ki.
 	
-	SamuCam: A samucam programban amikor a qmaket ráküldöm teljesen jól readgál a program, viszont mikor a maket küldöm rá 			 fatal errort ad vissza az opencv miatt pedig fel van telepitve.
-		 a webcam kezeléséről: videoCapture.open ( videoStream ); résszel elinditja a felvételt. videoCapture.set 			 (CV_CAP_PROP_FRAME_WIDTH, width );
+SamuCam: A samucam programban amikor a qmaket ráküldöm teljesen jól readgál a program, viszont mikor a maket küldöm rá fatal errort ad vissza az opencv miatt pedig fel van telepitve.a webcam kezeléséről: videoCapture.open ( videoStream ); résszel elinditja a felvételt.videoCapture.set(CV_CAP_PROP_FRAME_WIDTH, width );
   		 videoCapture.set ( CV_CAP_PROP_FRAME_HEIGHT, height );
   		 videoCapture.set ( CV_CAP_PROP_FPS, 10 ); résszel pedig beállitja a méretet és az fps-t.
 		 void SamuCam::run() résznél kéri be az XML-t és futtatja a  felvételt.
-	
-	FUTURE tevékenység editor: A java FX telepitése megtörtént majd a forditás és futtatás sikeres volt. Egyenlőre nem 					   találtam olyan részt a programban amin érdemben tudnék javitani, hamarosan befejezem a 					   feladatot.
-	
+		 
+FUTURE tevékenység editor: A java FX telepitése megtörtént majd a forditás és futtatás sikeres volt. Egyenlőre nem találtam olyan részt a programban amin érdemben tudnék javitani, hamarosan befejezem a feladatot.
+
 
 Nyolcadik hét:
-	KapuSzkenner: A program végigmegy az 1024 alatti kapukon és megpróbál egyesével kapcsolatot létesiteni. Ha sikerül akkor a célporton ül egy szerver folyamat, ha nem, azaz ha kivétel keletkezik, akkor nem. 
+KapuSzkenner: A program végigmegy az 1024 alatti kapukon és megpróbál egyesével kapcsolatot létesiteni. Ha sikerül akkor a célporton ül egy szerver folyamat, ha nem, azaz ha kivétel keletkezik, akkor nem. 
 	
-	JunitTeszt: Az eclipseben lefutott a java binfa. A junit teszt futtatásán még dolgozok.
+JunitTeszt: Az eclipseben lefutott a java binfa. A junit teszt futtatásán még dolgozok.
 	
-	Összefoglaló: az esszé a junit tesztből lesz.
+Összefoglaló: az esszé a junit tesztből lesz.
 	
 
 
