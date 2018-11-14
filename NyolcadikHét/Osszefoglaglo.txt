@@ -1,0 +1,2 @@
+A feladat az LZW binfa java verziójára junit teszt futtatása. A junit teszt végrehajtásához egy eclis-es plugint használtam. Először problémába ütközem mivel a Main és a Node fájl megvolt de véletlen az LZW binfa fájlt kihagytam ezért hibákat dobott. Miután pótoltam a fájlt lefutott a program a bemeneti és kimeneti txt-vel. A junit teszt mardt hátra. A plugin segítségével ráküldtem a teszte a Project mappára és sikeresen lefutott a teszt. A tesztet ki kell még egészítenem pár sorral hogy azokat mutassa mikre kíváncsi vagyok. Hamarosan kész lesz.
+
