@@ -72,6 +72,11 @@ Hetedik hét:
 	
 
 Nyolcadik hét:
+	KapuSzkenner: A program végigmegy az 1024 alatti kapukon és megpróbál egyesével kapcsolatot létesiteni. Ha sikerül akkor a célporton ül egy szerver folyamat, ha nem, azaz ha kivétel keletkezik, akkor nem. 
+	
+	JunitTeszt: Az eclipseben lefutott a java binfa. A junit teszt futtatásán még dolgozok.
+	
+	Összefoglaló: az esszé a junit tesztből lesz.
 	
 
 
